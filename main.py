@@ -131,7 +131,7 @@ users = [
 },
 {
     'date_joined': '2024-01-04 00:00:00.000000',
-    'email': 'vishi.rajvanshi@kristal.ai',
+    'key': 'vishi.rajvanshi@kristal.ai',
     'password': '$2b$12$fGFPf.5EjCbHQ8HxbsOO5.U4vb0EH.PUD0xl6GcxK62KpTzRVVF8q',
     'username': 'vishi.rajvanshi@kristal.ai'}
 ]
